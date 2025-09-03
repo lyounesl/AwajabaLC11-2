@@ -21,8 +21,9 @@ public class Repas {
 	    public LocalDate getDate() {
 	        return date;
 	    }
-
+	    
 	    public void setDate(LocalDate date) {
 	        this.date = date;
 	    }
+	    //nouveau commit *4
 }
